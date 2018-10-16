@@ -1,7 +1,14 @@
-body{
+/*body{
     background-color:rgb(150, 150, 150);
+}*/
+.top{
+    background-image: "asset\css\testbgd.jpg";
+    }
+.middle{ 
+    color: pink;
+    margin-left: 40px;
+    margin-right: 40px;
 }
-
 .full-width-content {
     margin-left: 20px;
     margin-right: 20px;
