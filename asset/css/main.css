@@ -2,7 +2,10 @@
     background-color:rgb(150, 150, 150);
 }*/
 .top{
-    background-image: "asset\css\testbgd.jpg";
+    background-image: url("../img/testbgd.jpg");
+    min-height:400px;
+    height:auto;
+    background-size:cover;
     }
 .middle{ 
     color: pink;
